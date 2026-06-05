@@ -39,7 +39,7 @@ python -m PyInstaller autoclicker.spec
 ```
 The compiled `.exe` will be located in the newly generated `dist/` directory.
 
-## 🔮 Future Implementations
+## Future Implementations
 
 - [ ] Macro recorder
 - [ ] Sripted Automation
