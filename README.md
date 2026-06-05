@@ -38,3 +38,8 @@ Run the following command in the project directory using the provided PyInstalle
 python -m PyInstaller autoclicker.spec
 ```
 The compiled `.exe` will be located in the newly generated `dist/` directory.
+
+## 🔮 Future Implementations
+
+- [ ] Macro recorder
+- [ ] Sripted Automation
